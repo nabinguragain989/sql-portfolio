@@ -50,20 +50,3 @@
 21. Which discounts reduce profitability?
 22. Which categories are most affected by discounts?
 
----
-
-## Time Analysis
-
-23. Monthly sales trend
-24. Quarterly sales trend
-25. Year-over-year growth
-26. Weekend vs weekday sales
-
----
-
-## Advanced Analysis
-
-27. Top 5 products in each region
-28. Running monthly sales totals
-29. Customer purchase rankings
-30. Rolling average sales
